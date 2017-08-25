@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnEasyGame" type="id">btnEasyGame</item>
+    <item name="btnNormalGame" type="id" />
+    <item name="btnHardGame" type="id" />
+</resources>
